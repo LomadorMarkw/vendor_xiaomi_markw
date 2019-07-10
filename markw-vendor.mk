@@ -989,6 +989,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/vendor/lib64/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcbassboost.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcvirt.so \
     vendor/xiaomi/markw/proprietary/lib64/vendor.display.color@1.0.so:system/lib64/vendor.display.color@1.0.so \
+    vendor/xiaomi/markw/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/vendor.display.postproc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.postproc@1.0.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/vendor.qti.data.factory@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.data.factory@1.0.so \
     vendor/xiaomi/markw/proprietary/vendor/lib64/vendor.qti.gnss@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.gnss@1.0.so \
